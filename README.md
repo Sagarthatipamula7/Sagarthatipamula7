@@ -17,15 +17,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThatipamulaSagar&show_icons=true&theme=tokyonight)
-
-![Sagar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThatipamulaSagar&theme=tokyonight)
-
-![Sagar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatipamulaSagar&layout=compact&theme=tokyonight)
-
-
 ## 🌐 Let's Connect!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/thatipamulasagar/)  
 - 📮 Email: thatipamulasagar7@gmail.com  
